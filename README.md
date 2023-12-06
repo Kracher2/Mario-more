@@ -1,6 +1,6 @@
-# CS50 Mario-more Solution
+# CS50 Mario-more Solution 2023
 
-This repository contains my solution to **Mario-more** from _Problem Set 1_ from the **CS50** course. I've made slight modifications to ensure it works in the real _Visual Studio Code_ (VSCode) software, such as:
+This repository contains my solution to **Mario-more** from _Problem Set 1_ from the **CS50** course in 2023. I've made slight modifications to ensure it works in the real _Visual Studio Code_ (VSCode) software, such as:
 
 - Renaming `#include <cs50.h>` to `#include "cs50.h"`
 
